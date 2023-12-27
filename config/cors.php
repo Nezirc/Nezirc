@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://127.0.0.1:5500', 'https://main--clever-tulumba-049bea.netlify.app', 'https://clever-tulumba-049bea.netlify.app'],
+    'allowed_origins' => ['url ni kent'],
 
     'allowed_origins_patterns' => [],
 
