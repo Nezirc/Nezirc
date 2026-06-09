@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- 
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=200&section=header&text=Codextensity&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Full-Stack%20MERN%20%C2%B7%20Freelance%20WordPress&descAlignY=58&descSize=18" /> -->
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=Building+for+the+web+%E2%9A%A1;MERN+%2B+TypeScript+enthusiast;Turning+caffeine+into+clean+commits;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nezirc&color=brightgreen&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nezirc?label=Followers&style=flat&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Nezirc?style=social" alt="Followers" />
 </p>
 
 <!-- ===== ABOUT ===== -->
@@ -68,5 +68,3 @@ const crizen sanchez = {
   <a href="https://instagram.com/pancitcanthony"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-===== FOOTER =====
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer&text=Always%20learning,%20always%20shipping%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=70" />
