@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!-- 
+
 <!-- ===== HEADER ===== -->
 
 
@@ -16,14 +16,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 ```js
-const crizen sanchez = {
+const crizen = {
   role: "Web Developer",
   stack: ["HTML", "CSS", "JavaScript"],
   learning: ["React", "Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL", "Supabase"],
   sideQuest: "Vibe Coder",
   mindset: "I never lose",
-  obsession: ["code, gaming,"],
+  obsession: ["code", "gaming,"],
   inbox: "sanchezcrizen@gmail.com", // always open
 };
 ```
