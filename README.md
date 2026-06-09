@@ -35,9 +35,9 @@ const crizen sanchez = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,bootstrap&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,postman,git,github,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,postman,git,github,wordpress&theme=dark" />
 </p>
 
 <br>
