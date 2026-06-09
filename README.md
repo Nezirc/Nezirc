@@ -18,7 +18,8 @@
 ```js
 const crizen sanchez = {
   role: "Web Developer",
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "Express"],
+  stack: ["HTML", "CSS", "JavaScript"],
+  learning: ["React", "Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL", "Supabase"],
   sideQuest: "Vibe Coder",
   mindset: "I never lose",
@@ -33,7 +34,7 @@ const crizen sanchez = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,bootstrap&theme=dark" />
   <br>
