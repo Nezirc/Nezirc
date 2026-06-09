@@ -16,14 +16,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 ```js
-const marc = {
+const crizen sanchez = {
   role: "Web Developer",
   stack: ["TypeScript", "React", "Next.js", "Node.js", "Express"],
   databases: ["MongoDB", "PostgreSQL", "Supabase"],
-  sideQuest: "Freelance WordPress Developer",
+  sideQuest: "Vibe Coder",
   mindset: "Treats bugs like puzzles, ships features like a sport",
   obsession: ["clean code", "snappy UIs", "that green deploy âœ“"],
-  inbox: "marcbsevilla@gmail.com", // always open
+  inbox: "sanchezcrizen@gmail.com", // always open
 };
 ```
 
@@ -52,7 +52,7 @@ const marc = {
 
 <!-- ===== SNAKE ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Codextensity/Codextensity/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nezirc/Nezirc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br>
@@ -63,7 +63,7 @@ const marc = {
 <p align="center">
   <a href="mailto:marcbsevilla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marc-anthony-sevilla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Codextensity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Nezirc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://facebook.com/allivescram"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/pancitcanthony"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
