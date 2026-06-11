@@ -28,7 +28,17 @@ const crizen = {
 };
 ```
 
-<br>
+<!-- ===== STATS ===== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nezirc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezirc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nezirc&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 <!-- ===== TECH STACK ===== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Arsenal
