@@ -43,13 +43,7 @@ const crizen = {
 
 <br>
 
-<!-- ===== GITHUB STATS ===== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nezirc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nezirc&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
 
 <!-- ===== SNAKE ===== -->
 <p align="center">
