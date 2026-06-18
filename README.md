@@ -59,13 +59,7 @@ const crizen = {
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezirc&layout=compact&theme=tokyonight&langs_count=8)
 
-### 📊 GitHub stats
-
-![Crizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nezirc&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nezirc&theme=tokyonight)
 
 <!-- ===== CONTACT ===== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Let's Connect
