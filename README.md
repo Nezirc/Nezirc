@@ -44,7 +44,7 @@ const crizen = {
   <br>
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,bootstrap&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,postman,git,github,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" />
 </p>
 
 <br>
