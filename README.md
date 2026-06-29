@@ -21,7 +21,7 @@ const crizen = {
   stack: ["HTML", "CSS", "JavaScript"],
   learning: ["React", "Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL", "Supabase"],
-  sideQuest: "Vibe Coder",
+  sideQuest: "Codiiiiiiiiiiiiiiiiing",
   mindset: "I never lose",
   obsession: ["code", "gaming,"],
   inbox: "sanchezcrizen@gmail.com", // always open
