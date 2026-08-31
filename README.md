@@ -18,8 +18,7 @@
 ```js
 const crizen = {
   role: ["Web Developer"],
-  stack: ["HTML", "CSS", "JavaScript"],
-  learning: ["React", "Node.js", "TypeScript", "Next.js"],
+  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL", "Supabase"],
   sideQuest: ["Codiiiiiiiiiiiiiiiiing"],
   mindset: ["I never lose"],
